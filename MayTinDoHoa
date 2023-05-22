@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class MayTinhDeBan extends MayTinh {
     private String kichThuoc;
 
-    public MayTinhDeBan(String tenMay, String kichThuoc) {
+    public MayTinhDoHoa(String tenMay, String kichThuoc) {
         super(tenMay);
         this.kichThuoc = kichThuoc;
     }
