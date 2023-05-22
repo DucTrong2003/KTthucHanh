@@ -1,10 +1,10 @@
 package ktra;
 import java.util.Scanner;
 
-public class MayTinhXachTay extends MayTinh {
+public class MayTinhChoiGame extends MayTinh {
     private int trongLuong;
 
-    public MayTinhXachTay(String tenMay, int trongLuong) {
+    public MayTinhChoiGame(String tenMay, int trongLuong) {
         super(tenMay);
         this.trongLuong = trongLuong;
     }
